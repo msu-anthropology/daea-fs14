@@ -108,7 +108,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="leaflet-omnivore-master/leaflet-omnivore.js"></script>
+    <script src="omnivore/leaflet-omnivore.js"></script>
     <script src="js/leaflet.js"></script> 
  
       
@@ -172,7 +172,7 @@ $(window).on("resize", function () {
 }).addTo(map);
 
             //enter path for .csv here
-            omnivore.csv('leaflet-omnivore-master/test/test.csv')
+            omnivore.csv('omnivore/map_data/sites.csv')
              .on('ready', function(layer) {
        
         this.eachLayer(function(marker) {
