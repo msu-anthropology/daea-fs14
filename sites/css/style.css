@@ -90,10 +90,14 @@ code {
 }
 
 #detail a {
-    color: #fff;
+    color: #0078A8;
     text-decoration: none;
 }
 
+#detail a:hover {
+	color: #0078A8;
+	text-decoration: underline;
+}
 
 a.back {
     background-color: #36A184;
