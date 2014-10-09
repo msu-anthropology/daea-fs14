@@ -105,7 +105,19 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="leaflet-omnivore-master/leaflet-omnivore.js"></script>
     <script src="js/leaflet.js"></script> 
- 
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("a[rel=citation]").popover({
+				placement : 'top'
+			}).click(function (p) {
+				p.preventDefault();
+				var $self = $(this);
+				setTimeout(function () {
+					$self.popover('hide');
+				}, 4000);
+			});
+		});
+	</script>
       
       
  <!-- Initiates Modal and Uses cookies for Dont Show Again Checkbox -->     
