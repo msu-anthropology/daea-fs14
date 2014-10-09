@@ -70,7 +70,6 @@ html lang="en"><script id="tinyhippos-injected">if (window.top.ripple) { window.
          <h3>FIRST SECTION HEADING</h3>
 		 <hr><!--this draws a line across the page, which I put under each section heading in the example-->
 		 <p>Paragraph text goes between these</p>
-		 <a href="#" rel="citation" data-toggle="popover" data-content=""><!--this is the required <a href> beginning tag for inline reference popups-->
 		 <br><!--this creates a break, to separate things a little better-->
 		 
 		 
@@ -102,7 +101,7 @@ html lang="en"><script id="tinyhippos-injected">if (window.top.ripple) { window.
 
     <div class="footer2">
       <div class="container">
-        <!--<p class="text-muted">Place sticky footer content here.</p>-->
+        <p class="text-muted">Place sticky footer content here.</p>
       </div>
     </div>
 
@@ -114,17 +113,4 @@ html lang="en"><script id="tinyhippos-injected">if (window.top.ripple) { window.
     <script src="js/bootstrap.min.js"></script>
     <script src="leaflet-omnivore-master/leaflet-omnivore.js"></script>
     <script src="js/leaflet.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$("a[rel=citation]").popover({
-				placement : 'top'
-			}).click(function (p) {
-				p.preventDefault();
-				var $self = $(this);
-				setTimeout(function () {
-					$self.popover('hide');
-				}, 4000);
-			});
-		});
-	</script>
-	</body></html>
+</body></html>
