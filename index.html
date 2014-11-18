@@ -189,7 +189,7 @@ $(window).on("resize", function () {
             marker.bindPopup(marker.toGeoJSON().properties.timePeriod +
                 marker.toGeoJSON().properties.siteName + '<br><br> ' +
                 marker.toGeoJSON().properties.info + '<br><br> ' +
-                marker.toGeoJSON().properties.link);
+                marker.toGeoJSON().properties.link, {autoPanPadding: [5,55]});
         });
     })
             .addTo(map);
