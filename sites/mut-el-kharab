@@ -1,0 +1,168 @@
+html lang="en"><script id="tinyhippos-injected">if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>DAEA</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/leaflet.css" />
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--<script src="js/ie-emulation-modes-warning.js"></script>-->
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--<script src="js/ie10-viewport-bug-workaround.js"></script>-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+      
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://matrix-msu.github.io/daea/index.html"><strong>Digital Atlas of Egyptian Archaeology</strong></a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="http://matrix-msu.github.io/daea/index.html">Atlas</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="http://matrix-msu.github.io/daea/projects.html">About the Project</a></li>
+				<li><a href="http://matrix-msu.github.io/daea/class.html">About the Class</a></li>
+                <li><a href="http://matrix-msu.github.io/daea/students.html">Students</a></li>
+                <li><a href="http://matrix-msu.github.io/daea/colophon.html">Colophon</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <!-- Begin page content -->
+      
+     <div id="detail">
+      <h1>Mut el-Kharab</h1>
+      <h3>Old Kingdom to Hellenistic</h3>
+	  <h4>Leah Auchter</h4>
+         <h3>Introduction</h3>
+		 <hr>
+		 <p>Evidence suggests that the Dakhla Oasis has been inhabited since Lower Paleolithic times.  Hand axes of the Late Acheulean practice were discovered in the oasis dating to be 500,000 years old.  The Saharan Neolithic sites in the Western Desert extend as far north as Dakhla and Kharga (3).    The earliest dated structures uncovered at Mut el-Kharab date to the Old Kingdom.  The height of occupation, however, of Dakhla Oasis and Mut el-Kharab occurred during the Roman Period.  Dakhla Oasis served as a major connector of trade routes: east and north towards the Nile Valley through Kharga Oasis and south to the Sudan.  The Oasis-dwellers are often depicted as foreigners to Egypt. From the Old Kingdom to the New Kingdom, the oasis fluctuated between periods of independence terminated by repeated forceful annexation and administration occupation from Egypt.  The site of Mut el-Kharab contains the remains of the Temple of Seth and its surrounding areas and structures. </p>
+		 <br>
+		 <h3>Introduction to Location and Geograpgy</h3>
+		 <hr>
+		 <p><img scr="http://looklex.com/e.o/slides/dakhla_o01.jpg"></p>
+		 <p>Sparse, dry and sandy the Egyptians referred to the Western Desert as Djseret or Red Land.  The djseret represented chaos. Amidst the Western Desert of Egypt five of the largest oases, Siwa, Bahariya, Farafa, Dakhla and Kharga allow for the only areas for permanent habitation in the severely dry and desolate desert.   The oases are made livable due to separate water sources or defunct Nile River tributaries.   The Dakhla or Dakhleh Oasis is positioned 800 km south south-west of Cairo (1).The Dakhla Oasis experiences seasonal extremes in weather.  Winter temperatures range from 0-2 degrees Celsius at night reaching up to 20-25 degrees Celsius during the day.  Summer temperatures are usually in the range of 40 to 50 degrees Celsius and precipitation is rare with only 0.3 mm per year (6).    Measuring 60 km by 25 km, Dakhla Oasis’ first settlement, according to the archaeological record, dates to the Old Kingdom and lasted through to the Hellenistic Period; even today the area is surrounded by modern city.  Mut el-Kharab meaning ‘Mut the ruined’ lies south-west of the modern city within the Dakhla Oasis, enclosed by a mud-brick wall (2).</p>
+		 <br>
+		 <h3>Description of Site</h3>
+		 <hr>
+		 <p>Mut el Kharab can be divided into three sections.  The central area houses the remains of the Temple of Seth.  Mut el-Kharab was the center for the cult of Seth.  The other two areas include the area to the immediate west of the temple and the south-eastern corner of temenos enclosure (5).  The south-eastern corner represents the Late to Roman Period of occupation.  The human activity in Dakhla Oasis reveals a mix of cultures.  The material culture of the Sheikh Muftah disappeared during the late Old Kingdom (4).  Egyptian expansion to the oasis occurred during the Old Kingdom, annexing the area and incorporating it into Egyptian administration bt Dynasty VI.  Two factors are cited as possible contributors to the annexation of Dakhla.  Egypt may have been responding to the blockage of trade on the waterways by Nubian tribes or sought to protect the western Egyptian border and expand the general territory (4).  Claiming the western land, trade routes across land could be established.  The trade system was vital and inhabitants likely had regular contact with the Nile Valley despite their isolated location (6). </p>
+		 <br>
+		 <h3>Discussion of Excavations</h3>
+		 <hr>
+		 <p><img scr="http://upload.wikimedia.org/wikipedia/commons/3/3a/Temple_at_Mut_el-Kharab_(IV).jpg"></p>
+		 <p>Since 1978 the Canadian Dakhla Oasis Project has been conducting yearly archaeological investigations in the area.  Two major excavations at Mut el-Kharab in the Dakhla Oasis were conducted in the 2008 and 2009 seasons by The Centre for Archaeology and Ancient History Monash University, Melbourne.  The excavations at Mut el-Kharab in 2008 continued the examination of the remains of the Temple of Seth and to study large mud-brick structures within the south-eastern corner (7).  Within the main temple area, a small remnant of in situ sandstone block pavement was uncovered.  An occupational surface sitting above a brick platform was associated with ceramics dating the floor to the 4th century AD.  Emerging from one of the robber’s pits, a wall dating to the Old Kingdom is possibly the oldest architectural feature (7).  In an area west of the temple, Trench 30 contains numerous visible brick features.  The excavation of a southern area uncovered 3 caches.  Also from this area was a mud seal with the inscription nefer sutekh neb pet or ‘Perfect is Seth, Lord of Heaven’ (7).  The northern excavation area, buried beneath mud-brick collapse and destroyed structures, contained a recess or cupboard.  The cupboard was covered with block inscribed with text commemoration the activity of local administrator making additions to the shrine of the god Igai.  The cupboard held demotic ostraka, greywackle plate and small ceramic vessels used for small offerings (7).  Excavations at Trench 33 provided evidence for continued occupation through the New Kingdom and 3rd Intermediate Period.  New Kingdom bread molds, New Kingdom blue-painted sherds and Nile Valley amphorae sherds from the New Kingdom suggested inhabitation during this time (7).</p>
+		 <p>The Southeast corner of Mut el-Kharab dates to the Roman period.  Within the southeast corner several phases of occupation around substantial mud-brick, rectangular structure probably date to the Roman Period.  Trench 28 contains a Roman cooking pot.  Foundation of these structures overlies ceramics of Ptolemaic Egypt (7).</p>
+		 <p>The Inscription of Sa-Igai was carved into a block of reddish sandstone 118 cm tall.  The text read as an autobiography of a governor of the oasis.  The governor is referred to as “mayor and overseer of priest” suggests the inscription dates to the Middle Kingdom.  The phrase to “make monuments” is also indicative of the early Middle Kingdom (7).</p>
+		 <p><img scr="https://egyptsites.files.wordpress.com/2009/03/ashmoleum-dakhla.jpg?w=497"></p>
+		 <p>The 2009 season excavations continued in the central area within the Temple of Seth and the area to the immediate west of the main temple.  Within the Temple of Seth, the southern and eastern walls and the paving stones date to the Old Kingdom.  Old Kingdom pottery was retrieved from this area.  In the eastern section, pottery was also discovered ranging from the New Kingdom to modern times with Trench 5 containing ceramics of the Late to Roman Period.  The excavation to the west of the main temple uncovered 4 large storage jars set upright in sand deposits holding sherds of the Old Kingdom, local handmade material and some fragments from the Late Period (5).  Also found in this section were a falcon-headed sphinx, small offering bowls-29 complete or reconstructable bowls, small braziers, offering stands, 6 large storage jars decorated in red with figures of long-legged bird, a pair of scales and what resembles a mathematical notation (5).  A decorated block from the temple wall depicted part of a god painted blue.  Part of a lion’s tail from a garment, the lower shaft of  sceptre, 18 ostraka, a scarab, a broken Anubis amulet and flint arrowhead were also among the artifacts recovered (5).</p>
+		 <p>Egyptian textual and pictorial data present the oases as foreign regions.  A stela dated to the year 34 of the reign of Senwosret I during the Middle Kingdom was erected to commemorate a visit to Thebes of a man named Ikuddi.  Ikuddi traveled to the land of ‘oasis dwellers’ likely Dakhla or Kharga (1).  The Royal Ballas Inscription also documents oases as non-Egyptian and claims the oases needed to be brought under Egyptian rule (1).  The Balls Inscription dates to the reign of Nebhetepre Montuhotep II in the Middle Kingdom. </p>
+		 <p>he paleopathology of the Ptolemaic reveals an interesting discovery.  Tombs dated to the 2nd century BC or Ptolemaic period contain bodies that naturally mummified.  The phalanges show typical leprose changes (8).  It is well known that leprosy was common in ancient Egypt during the Ptolemaic period.  The evidence suggests that either leprosy was frequent enough to exist in higher classes and/or the Dakhla Oasis was used as deportation of leprosy-ill individuals belonging to the ruling class (8).  </p>
+		 <br>
+		 <h3>Results and Significance of Excavations</h3>
+		 <hr>
+		 <p>The excavations at the site of Mut el-Kharab make clear that the first major occupation occurred during the Old Kingdom, although some evidence suggests the Dakhla Oasis was inhabited from as early as the Lower Paleolithic period.  The precise function of the Old Kingdom structures are unknown however, hearths, pot emplacements and ash deposits indicate domestic activity.  The inscription of Sa-Igai provides evidence of a continued veneration of Seth, Amun and other deities into the Roman period.  Based on the large size of the temple and the number of associated structures in the surrounding area, it is likely that Mut el-Kharab was for some time the capital of the Dakhla Oasis.</p>
+		 <p>The stela depicting the tale of Ikuddi represents the earliest known reference to oasis on a document from the Nile Valley and it is significant that the region is categorized by specifically differentiated people who live there rather than the geography (1).  Pictorials from New Kingdom scenes from tombs in Thebes of these oasis-dwellers are different from the Egyptians.  The people have dishevelled and discolored hair, unusual eyes and distinct animal skin-like dress (1).  The depiction within the scenes as exotic subordinates was a way to signify their inferiority and lowly status (1). </p>
+		 <br>
+		 <h3>Conclusion</h3>
+		 <hr>
+		 <p>Mut el-Kharab was the center for the cult of Seth and trade in the Dakhla Oasis.  The Egyptians of the Nile Valley viewed these oasis-dwellers as foreigners and depicted them as such. Documents record the annexation and administration conquering of Dakhla Oasis.  A center for trade, the oasis demonstrated its importance by linking Nubia to the Nile Valley across land.  The oases of the Western desert are some of the longest inhabited areas of Egypt.  The separate water source allows for agriculture and life to occur in the otherwise destitute desert.  Dakhla Oasis achieved its peak of population during the Roman period.  Importantly, the Cult of Seth and the worship of Seth, Amun and other deities continued through the Hellenistic period.  Mut el-Kharab was at some point the capital of the flourishing settlements in the western desert.</p>
+		 <br>
+		 <h3>Sources</h3>
+		 <p>1.http://www.pia-journal.co.uk/article/view/pia.341/52 Who inhabited the Dakhleh Oasis? Searching for an Oasis Identity in Pharaonic Egypt. </p>
+		 <p>2.https://egyptsites.wordpress.com/2009/03/13/mut-el-kharab/ Egyptian monuments, Mut- el Kharab</p>
+		 <p>3.Bard, Kathryn A. An Introduction to the Archaeology of Ancient Egypt</p>
+		 <p>4.http://artsonline.monash.edu.au/ancient-cultures/files/2013/04/the-artefact-2001-24.pdf Egypt and Libya </p>
+		 <p>5.http://artsonline.monash.edu.au/ancient-cultures/files/2013/04/bace-2009-20.pdf Report of 2009 excavation</p>
+		 <p>6.http://ac.els-cdn.com/S0305440301906405/1-s2.0-S0305440301906405-main.pdf?_tid=bd700c3a-79a9-11e4-9206-00000aab0f6b&acdnat=1417473246_2d4b707f695af17efd29b107fb0aa0c9 Strangers in a Strange Land: Stable Isotope Evidence for Human Migration in the Dakhleh Oasis, Egypt</p>
+		 <p>7.http://artsonline.monash.edu.au/ancient-cultures/files/2013/04/bace-2008-19.pdf Australian Center for Egyptology</p>
+		 <p>8.http://ac.els-cdn.com/0047248480900445/1-s2.0-0047248480900445-main.pdf?_tid=e2d4ba20-79a9-11e4-8469-00000aacb35f&acdnat=1417473309_b5449eda82204b6c0d75e9d23686d697 Paleopathology of the Ptolemaic Inhabitants of Dakhleh Oasis (Egypt)</p>
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+	</div>
+     
+       <br>
+         <br>
+
+    <div class="footer2">
+      <div class="container">
+        <!--<p class="text-muted">Place sticky footer content here.</p>-->
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="leaflet-omnivore-master/leaflet-omnivore.js"></script>
+    <script src="js/leaflet.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("a[rel=citation]").popover({
+				placement : 'top'
+			}).click(function (p) {
+				p.preventDefault();
+				var $self = $(this);
+				setTimeout(function () {
+					$self.popover('hide');
+				}, 4000);
+			});
+		});
+	</script>
+	</body></html>
