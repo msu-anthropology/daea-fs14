@@ -99,6 +99,10 @@ code {
     text-decoration: none;
 }
 
+#detail figcaption {
+	padding-top: 4px;
+}
+
 #detail a:hover {
 	color: #0078A8;
 	text-decoration: underline;
