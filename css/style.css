@@ -99,6 +99,9 @@ code {
     text-decoration: none;
 }
 
+#detail figcaption {
+	padding-top: 4px;
+}
 
 a.back {
     background-color: #36A184;
