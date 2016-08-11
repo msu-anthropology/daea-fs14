@@ -1,7 +1,7 @@
-daea
+daea-fs14
 ====
 
-Digital Atlas of Egyptian Archaeology
+Digital Atlas of Egyptian Archaeology - Fall 2014
 
 Main project at https://msu-anthropology.github.io/daea/
 
